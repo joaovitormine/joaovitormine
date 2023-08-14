@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print+('Hello+World!'))](https://git.io/typing-svg) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print+('System.out.println("I'm+João!");'))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22I'm+Jo%C3%A3o!%22);)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
